@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62b26c0b9da879e4e9ab4992758996d9, type: 3}
+  m_Name: PrefabsDB
+  m_EditorClassIdentifier: 
+  M_Player_Prefab: {fileID: 8345280602849411046, guid: 6ac43da3da70c1a4e97cf724e73a4dd7, type: 3}
+  M_EnemySpawner_Prefab: {fileID: -2756452676086639708, guid: 67832a5cc26e2c343b585b1715f75afc, type: 3}
+  M_Enemy_Prefab: {fileID: -815993105983958437, guid: bc5749eaadb203044a2e3afe7a642bdc, type: 3}
+  M_Portal_Prefab: {fileID: 6380067065540744621, guid: e8927f34d3d2e1646aec153b07e90829, type: 3}
+  M_PowerUp_Prefab:
+  - {fileID: 2597059783997041278, guid: 295a09f98d928254797df94780f940b1, type: 3}
+  - {fileID: 2597059783997041278, guid: 1aeb3f07f35dcd04da000fc2ea3f6ef7, type: 3}
+  - {fileID: 2597059783997041278, guid: 7c8cbc7aff7318d41a62c5798d424d5f, type: 3}
+  - {fileID: 2597059783997041278, guid: 7c8cbc7aff7318d41a62c5798d424d5f, type: 3}
+  - {fileID: 2597059783997041278, guid: 1aeb3f07f35dcd04da000fc2ea3f6ef7, type: 3}
+  - {fileID: 2597059783997041278, guid: 295a09f98d928254797df94780f940b1, type: 3}
+  M_Hit_Partical_System:
+  - {fileID: 105560326979146003, guid: d3015b7eea383f64d8b81f965cc466e7, type: 3}
+  - {fileID: -98020976686264735, guid: f91edac4d13fc4343ba96bb6a843ad05, type: 3}
+  - {fileID: 6270396867790631442, guid: 3b7f2c753d435d647a80f1f047a113e3, type: 3}
+  M_PlayerBulletPrefab: {fileID: 7941598295554223428, guid: 489ca4fe60917514a823a5455dab0a38, type: 3}
